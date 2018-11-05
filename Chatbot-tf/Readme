@@ -1,0 +1,7 @@
+Chatbot implementation using tensorflow and the cornell dataset,
+
+required libraries:
+numpy
+re
+ast
+tensorflow-1.0.0
